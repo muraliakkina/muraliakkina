@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muraliakkina
 - 👀 I’m interested in Web Development,CyberSecurity
-- 🌱 I’m currently learning Javascript,python
+- 🌱 I’m currently learning Web Development Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/muraliakkina
 
